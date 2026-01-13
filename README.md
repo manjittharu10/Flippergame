@@ -28,4 +28,6 @@ CSS
 
 JavaScript
 
+React
+
 This project is perfect for beginners looking to practice DOM manipulation, event handling, and game logic, or for anyone who enjoys classic memory games.
