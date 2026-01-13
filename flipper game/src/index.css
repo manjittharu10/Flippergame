@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.matched-glow{
+    animation:glowpop 0.6s ease-in-out;
+      box-shadow: 0 0 15px #22c55e, 0 0 30px #22c55e;;
+}
+
+@keyframes glowpop {
+     0% {
+    transform:scale(1);
+  }
+  50% {
+    transform:scale(1.08);
+  }
+  100% {
+    transform:scale(1);
+  }
+}
